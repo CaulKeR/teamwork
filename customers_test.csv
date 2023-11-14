@@ -1,0 +1,6 @@
+first_name,last_name,email,gender,ip_address
+,,user@example.com,,
+,,john.doe123@example.org,,
+,,invalid_email,,
+,,no_at_symbol.com,,
+,,some.user@example.com,,
